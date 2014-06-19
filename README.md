@@ -4,5 +4,5 @@ aulagit
 Curso code.education
 
 Entrega Primeiro Projeto
-Apos commit
+apos commit
 # git push -u origin master
