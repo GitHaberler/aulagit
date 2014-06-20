@@ -1,8 +1,15 @@
-aulagit
-=======
+Trilhando Caminho com PHP 
+=========================
 
-Curso code.education
+**Git - Primeiro Projeto**
 
-Entrega Primeiro Projeto
-apos commit
-# git push -u origin master
+[Link do Projeto](https://github.com/TileWilly/aulagit.git)
+
+Com o ambiente já configurado local e no Github, realizei uma alteração e executei o commit. 
+Apos o commit executei o comando push  para atualizar o repositório remoto com o meu local.
+Conforme segue abaixo:
+* Alteração do arquivo.txt
+* git status
+* git commit -a
+* git push -u origin master
+
